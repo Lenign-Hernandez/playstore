@@ -1,0 +1,42 @@
+body {
+    padding-top: 5rem;
+    font-family: 'fuente-custom';
+}
+
+.starter-template {
+    padding: 3rem 1.5rem;
+    text-align: center;
+}
+
+nav {
+    background-color: rgb(238, 238, 238);
+}
+
+.logo-nav {
+    height: 40px;
+    width: 200px;
+}
+
+
+.select-class {
+    font-size: 25px;
+}
+
+
+.card:hover {
+    background-color: orange;
+    cursor: pointer;
+}
+
+#desarrollador {
+    font-size: 13px;
+}
+
+.precio {
+    font-size: 19px;
+}
+
+#desarrolladorModal {
+    font-size: 12px;
+    margin: 0 !important;
+}
